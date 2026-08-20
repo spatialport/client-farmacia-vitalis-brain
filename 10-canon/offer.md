@@ -3,7 +3,7 @@ id: farmacia-canon-offer
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Products/services, economics, proof, differentiation and current commercial priorities.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 ### Core services
 - Prescription and OTC medicines; parapharmacy and dermocosmetics; natural medicine and homeopathy; phytotherapy; supplements; **gluten-free foods** (not available anywhere in the area, including Denner) (PROJECT_v2.md §4).

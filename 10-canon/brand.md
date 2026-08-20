@@ -3,7 +3,7 @@ id: farmacia-canon-brand
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: branding
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -20,7 +20,7 @@ This is the foundation for generated content. Do not scale content production un
 
 Source of truth: **brandbook-v6.html** (v4/v5 are superseded — ignore). Tokens below as codified in MASTER_PROMPT_FASE-2-3.md §5 and applied across fase-2/fase-3 deliverables.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 ### Brand truth
 - Purpose: a proximity pharmacy that gives people time — "la salute ha bisogno di tempo e di facce che ti conoscono" (fase-2/10 quote draft).

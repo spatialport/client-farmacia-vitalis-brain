@@ -3,7 +3,7 @@ id: farmacia-brief-branding
 client_id: farmacia-vitalis
 record_type: brief
 service_path: branding
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client

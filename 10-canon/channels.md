@@ -3,7 +3,7 @@ id: farmacia-canon-channels
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Channel selection, role of each channel, founder/network leverage and current hypotheses.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 ### Channel architecture (fase-2/01 §5)
 - **Google Business Profile** — #1 channel for a pharmacy; weekly posts/photos/Q&A; answer ALL reviews within 48h; absolute first priority: register/verify on "farmacia Lumino" (zero competition).

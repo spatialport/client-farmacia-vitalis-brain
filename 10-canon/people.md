@@ -3,7 +3,7 @@ id: farmacia-canon-people
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Decision makers, operators, subject-matter experts, client contacts and approval responsibilities.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 ### Client side
 - **Paride Zanetti** — co-founder and day-to-day operational contact. Email: paride.z@live.com (PROJECT_v2.md). Preferred channel: **WhatsApp** (PROJECT_v2.md §2). Signs partner outreach letters "a nome dei founder" (fase-2/03 templates).

@@ -3,7 +3,7 @@ id: farmacia-canon-positioning
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: branding
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Unique advantage, category, alternatives, promises, reasons to believe and prohibited claims.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 - **Positioning statement (verbatim, fase-2/02 §1):** *«Per le famiglie, gli anziani e chi cerca un approccio naturale alla salute nel Bellinzonese, Farmacia Vitalis è la farmacia indipendente di Lumino che unisce la farmacia classica e la medicina naturale con servizi accessibili 24/7, perché — a differenza delle grandi catene — ci prendiamo il tempo per conoscerti e seguirti come persona, non come scontrino.»*
 - **Official tagline:** *«Ci prendiamo il tempo per te.»* — EN "We make time for you.", SR "Uvek imamo vremena za tebe." (fase-2/02, fase-3/02).

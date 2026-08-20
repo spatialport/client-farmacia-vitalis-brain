@@ -3,7 +3,7 @@ id: farmacia-brief-crm
 client_id: farmacia-vitalis
 record_type: brief
 service_path: crm
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client

@@ -3,7 +3,7 @@ id: farmacia-performance-summary
 client_id: farmacia-vitalis
 record_type: performance
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client

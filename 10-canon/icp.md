@@ -3,7 +3,7 @@ id: farmacia-canon-icp
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Who the business serves, jobs, pains, buying context, objections, geography and evidence.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 ### Geography
 - Primary catchment: **Lumino**; extended: Bellinzona (north), Arbedo-Castione, San Vittore and Roveredo (both in Grigioni but Italian-speaking, gravitating on the Bellinzonese) — local road patterns make them all pass by the shopping complex (PROJECT_v2.md §3, fase-2/07 §2.2). ADV bacino estimated ~50–60k people; Flight 0 works Lumino + ~5 km only (fase-4/KIT-ADV).

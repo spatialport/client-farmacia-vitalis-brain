@@ -3,7 +3,7 @@ id: farmacia-canon-operations
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: How the physical business actually works, including constraints, seasonality, locations and customer journey.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 ### Physical operations
 - Single location: Centro Opti, Via Mesolcina 17, 6533 Lumino (TI) (fase-3/03). Free abundant parking; illuminated pharmacy cross (electrical pre-wiring done by Daniele) (PROJECT_v2.md §6).

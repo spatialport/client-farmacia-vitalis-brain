@@ -3,7 +3,7 @@ id: farmacia-canon-company
 client_id: farmacia-vitalis
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client
@@ -18,7 +18,7 @@ updated_at: 2026-08-19
 
 Purpose: Who the company is, legal/operating context, history, beliefs, mistakes, lessons and five-year ambition.
 
-## Proposed knowledge (awaiting review by Alex)
+## Accepted knowledge
 
 - **What:** Farmacia Vitalis is an independent pharmacy opening in **Lumino, Ticino, Switzerland** — Swiss law context, not EU (PROJECT_v2.md; inventario 2026-08-19). It combines classic pharmacy and natural medicine ("farmacia classica + naturale/omeopatia sotto lo stesso tetto") (PROJECT_v2.md).
 - **Location:** inside/next to the **Centro Opti** complex, which also hosts THI LAND (indoor playground), THI Restaurant, a pediatric center (opening), a Denner supermarket and the post office; schools 20 m away, free parking, 2 min from the A2 exit (PROJECT_v2.md). Confirmed address: **Via Mesolcina 17, 6533 Lumino (TI)** — CAP 6533 recorded as "confirmed via e località, non il CAP: da verificare" (fase-3-landing-page/03-integrazioni-e-tracking.md). An earlier spec used working placeholder "Via Mesolcina 17, 6525 Lumino" (fase-3/01) — 6533 is the value used in the live docs.
