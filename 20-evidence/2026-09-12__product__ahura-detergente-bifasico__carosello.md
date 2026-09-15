@@ -2,7 +2,7 @@
 id: farmacia-vitalis-ev-2026-09-12-ahura-murumuru
 client_id: farmacia-vitalis
 record_type: evidence
-service_path: social-media
+service_path: content
 status: proposed
 owner: alex-bellesia
 authority: alex-bellesia
@@ -12,7 +12,7 @@ sensitivity: confidential
 source_ref: github://spatialport/farmacia-vitalis-workspace@517c987/fase-5-social/CAROSELLO-AHURA-DETERGENTE-BIFASICO.md
 schema_version: 1.1.0
 created_at: 2026-09-12
-updated_at: 2026-09-12
+updated_at: 2026-09-15
 ---
 # Linea Murumuru (Laboratorio Ahura) e carosello prodotto — detergente bifasico all'avocado
 
