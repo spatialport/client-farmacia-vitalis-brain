@@ -19,7 +19,7 @@ updated_at: 2026-09-15
 
 ## Source
 
-Sessione Cowork del 15/9/2026 su richiesta di Alex: calendario editoriale del mese successivo scritto sulla strategia social v3 (record `farmacia-vitalis-ev-2026-09-15-strategia-social-v3`), con descrizione e contenuto di ogni post. Sorgente completa (hook, struttura, caption, CTA, produzione): `fase-5-social/PIANO-EDITORIALE-OTTOBRE-2026-v3.md` nel workspace repo; dati del calendario interattivo: `deploy-aws/site/social-media/calendario/data/2026-10.json` (pagina: https://farmaciavitalis.spatial-port.io/social-media/calendario/?m=2026-10). Lo sviluppo visivo dei contenuti segue in una fase successiva su reference stilistiche di Alex.
+Sessione Cowork del 15/9/2026 su richiesta di Alex: calendario editoriale del mese successivo scritto sulla strategia social v3 (record `farmacia-vitalis-ev-2026-09-15-strategia-social-v3`), con descrizione e contenuto di ogni post. Sorgente completa (hook, struttura, caption, CTA, produzione): `fase-5-social/PIANO-EDITORIALE-OTTOBRE-2026-v3.md` nel workspace repo; dati del calendario interattivo: `deploy-aws/site/social-media/calendario/data/2026-10.json` (pagina: https://farmaciavitalis.spatial-port.io/social-media/calendario/index.html?m=2026-10). Lo sviluppo visivo dei contenuti segue in una fase successiva su reference stilistiche di Alex.
 
 ## Actors
 
