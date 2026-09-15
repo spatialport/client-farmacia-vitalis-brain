@@ -44,7 +44,7 @@ Purpose: Channel selection, role of each channel, founder/network leverage and c
 ### Status as of mid-September 2026
 - Mid-July 2026 (fase-5/PIANO-CATCH-UP): IG/FB were ~4 weeks late; catch-up of 3 founding posts + 15 posts/reels over 3 weeks (14 Jul–3 Aug), then normal rhythm hooked to the countdown.
 - 8 Sep 2026: piano editoriale v2 (47 contents, 9 Sep–28 Nov) on the funnel "iscriviti → codice", burst Meta, weekly GBP, Serbian community card.
-- 15 Sep 2026: strategia social v3 adopted as the guideline for every content from October; October 2026 calendar rewritten on the twelve formats (16 releases = 13 formats + 3 launch-event contents; opening indicated by Alex for **Saturday 31 October 2026**, written confirmation from the pharmacy pending). Interactive calendar on the client dashboard (`/social-media/calendario/`), strategy document at `/social-media/strategia-social.html`.
+- 15 Sep 2026: strategia social v3 adopted as the guideline for every content from October; October 2026 calendar rewritten on the twelve formats (16 releases = 13 formats + 3 launch-event contents; opening indicated by Alex for **Saturday 31 October 2026**, written confirmation from the pharmacy pending). Interactive calendar on the client dashboard (`/social-media/calendario/index.html`), strategy document at `/social-media/strategia-social.html`.
 - Flight 0 ADV kit ready (5 Meta ads + 5 Google brand RSAs, Jul CHF 300 / Aug CHF 450), CTA https://www.farmaciavitalis.ch, UTM scheme defined (fase-4/KIT-ADV).
 
 ### KPI guide (fase-2/01)
